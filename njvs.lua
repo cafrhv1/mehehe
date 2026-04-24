@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
 
-local ICON_IMAGE = "rbxassetid://96083355749736"
+local ICON_IMAGE = "rbxassetid://110552700896064"
 local ICON_SIZE = 45
 local ICON_POSITION = UDim2.new(0, 20, 0, 20)
 
